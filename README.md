@@ -1,7 +1,7 @@
 <b>#MacChanger</b>
 
 <h2>Build and install from sourced</h2>
-git clone  https://github.com/LoonyTynes/MacChanger.git
+<mark>git clone  https://github.com/LoonyTynes/MacChanger.git</mark>
 
 <h2>Usage</h2>
 
