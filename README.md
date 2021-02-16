@@ -9,4 +9,8 @@ MacChanger v1.0 usage:
 
 cd MacChanger
 
-python3 MacChanger.py -i eth0 -m 00:22:33:44:55:66
+-i --interface İnterface macchanger
+
+-m --mac differrent mac address
+
+python3 MacChanger.py -i (interface) -m (mac address)
