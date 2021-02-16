@@ -1,7 +1,7 @@
 <b>#MacChanger</b>
 
 <h2>Build and install from sourced</h2>
-<mark>git clone  https://github.com/LoonyTynes/MacChanger.git</mark>
+<b>git clone  https://github.com/LoonyTynes/MacChanger.git</b>
 
 <h2>Usage</h2>
 
@@ -14,3 +14,5 @@ cd MacChanger
 -m --mac differrent mac address
 
 python3 MacChanger.py -i (interface) -m (mac address)
+
+  <mark>Seçili yazı</mark>
