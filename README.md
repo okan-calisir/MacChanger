@@ -7,12 +7,12 @@
 
 MacChanger v1.0 usage:
 
-cd MacChanger
+<b>cd MacChanger</b>
 
--i --interface İnterface macchanger
+<b>-i --interface İnterface macchanger</b>
 
--m --mac differrent mac address
+<b>-m --mac differrent mac address</b>
 
-python3 MacChanger.py -i (interface) -m (mac address)
+<b>python3 MacChanger.py -i (interface) -m (mac address)</b>
 
-  <mark>Seçili yazı</mark>
+
