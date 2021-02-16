@@ -1,10 +1,9 @@
-<em>#MacChanger</em>
+<b>#MacChanger</b>
 
 <h2>Build and install from sourced</h2>
 git clone  https://github.com/LoonyTynes/MacChanger.git
 
 <h2>Usage</h2>
-<h2Usage</h2>
 
 MacChanger v1.0 usage:
 
